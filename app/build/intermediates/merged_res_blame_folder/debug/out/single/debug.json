@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_book_kereta.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_book_kereta.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_profile1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\font_archivo_black.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_profile1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_circletransparant.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\circletransparant.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_profile1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_ic_success.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_ic_success.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_informasi.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_informasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-mdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_notification.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_button_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\button_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_informasi.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\informasi.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_ic_success.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xxxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-hdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xxxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-hdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_profile1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\profile1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_ic_success.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\ic_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_ic_fail.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\ic_fail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi-v24_bg_home_wave.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-anydpi-v24\\bg_home_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-xxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_ic_person.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_riwayat.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\riwayat.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_bg_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_list_item_booking.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\list_item_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_profile1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\ic_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_ic_success.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\ic_success.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_ic_fail.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\ic_fail.png"
+    },
+    {
+        "merged": "com.project.travel.app-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "com.project.travel.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_ic_date.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi-v24_bg_home_curve.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-anydpi-v24\\bg_home_curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_ic_date.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_kereta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_book_kereta.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\book_kereta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_book_kereta.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\book_kereta.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_ppp.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\ppp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-mdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xhdpi_profile1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xhdpi\\profile1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\font_autour_one.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\font\\autour_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_pp.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\pp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-ldpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-ldpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-ldpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-pngs-9:\\drawable-ldpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_header.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-anydpi_ic_date.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-anydpi\\ic_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-xxhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-xxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable_riwayatt.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable\\riwayatt.png"
+    }
+]

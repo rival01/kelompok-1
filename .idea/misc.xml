@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable-anydpi/ic_date.xml" value="0.165" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.165" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable/bg_home_curve.xml" value="0.165" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable/bg_home_wave.xml" value="0.165" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable/ic_email.xml" value="0.2035" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable/ic_password.xml" value="0.2035" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/font/aclonica.xml" value="0.2546875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/font/aldrich.xml" value="0.2546875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/font/archivo_black.xml" value="0.2546875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/font/autour_one.xml" value="0.2546875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_book_kereta.xml" value="0.11926605504587157" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_informasi.xml" value="0.22" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_login.xml" value="0.14444444444444443" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_profile.xml" value="0.16115702479338842" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/list_item_booking.xml" value="0.14285714285714285" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

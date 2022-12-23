@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.travel"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:6:5-46:19
+12        android:allowBackup="true"
+12-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\User\.gradle\caches\transforms-3\275b706b6985d970373abac7764d754e\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:8:9-43
+15        android:label="@string/app_name"
+15-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:9:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:10:9-54
+17        android:supportsRtl="true"
+17-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:11:9-35
+18        android:theme="@style/AppTheme" >
+18-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:12:9-40
+19        <activity
+19-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:14:9-22:20
+20            android:name="com.project.travel.activity.MainActivity"
+20-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:15:13-68
+21            android:screenOrientation="portrait" >
+21-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:16:13-49
+22            <intent-filter>
+22-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:17:13-21:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:18:17-69
+23-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:18:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:20:17-77
+25-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:20:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:23:9-27:55
+29            android:name="com.project.travel.activity.LoginActivity"
+29-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:24:13-69
+30            android:configChanges="keyboardHidden|orientation|screenSize"
+30-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:25:13-74
+31            android:screenOrientation="portrait"
+31-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:26:13-49
+32            android:windowSoftInputMode="adjustPan" />
+32-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:27:13-52
+33        <activity
+33-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:28:9-32:55
+34            android:name="com.project.travel.activity.RegisterActivity"
+34-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:29:13-72
+35            android:configChanges="keyboardHidden|orientation|screenSize"
+35-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:30:13-74
+36            android:screenOrientation="portrait"
+36-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:31:13-49
+37            android:windowSoftInputMode="adjustPan" />
+37-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:32:13-52
+38        <activity
+38-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:33:9-35:52
+39            android:name="com.project.travel.activity.ProfileActivity"
+39-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:34:13-71
+40            android:screenOrientation="portrait" />
+40-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:35:13-49
+41        <activity
+41-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:36:9-38:52
+42            android:name="com.project.travel.activity.HistoryActivity"
+42-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:37:13-71
+43            android:screenOrientation="portrait" />
+43-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:38:13-49
+44        <activity
+44-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:39:9-41:52
+45            android:name="com.project.travel.activity.BookKeretaActivity"
+45-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:40:13-74
+46            android:screenOrientation="portrait" />
+46-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:41:13-49
+47
+48        <meta-data
+48-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:43:9-45:57
+49            android:name="preloaded_fonts"
+49-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:44:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->F:\Pemesanan-Travel-master\TravelApps\app\src\main\AndroidManifest.xml:45:13-54
+51    </application>
+52
+53</manifest>

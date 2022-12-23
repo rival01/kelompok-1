@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbProfile"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/bg_home_wave"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tbProfile">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="3dp"
+                app:strokeColor="#3B3486"
+                app:strokeWidth="2dp">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/idSewa"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="Data Profil"
+                        android:textColor="#3B3486"
+                        android:textSize="19sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/idSewa"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Jakarta"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/lblName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txtName"
+                        android:text="hargaDewasa = 100000
+                                    hargaAnak = 70000"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/txtEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/lblName"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Bandung
+"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/lblEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txtEmail"
+                        android:text="hargaDewasa = 200000;
+                                    hargaAnak = 150000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/nama1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/lblEmail"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Tasikmalaya
+"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/nama2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama1"
+                        android:text="hargaDewasa = 150000;
+                                    hargaAnak = 120000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/email1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama2"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan :Pelabuhan Merak - Pekalongan "
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/email2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email1"
+                        android:text="hargaDewasa = 180000;
+                                     hargaAnak = 140000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/nama3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email2"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Purwokerto"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/nama4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama3"
+                        android:text="hargaDewasa = 100000;
+                                    hargaAnak = 70000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/email3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama4"
+                        android:layout_marginTop="20dp"
+                        android:text="Jursuan : Pelabuhan Merak - Semarang"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/email4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email3"
+                        android:text="hargaDewasa = 120000;
+                                hargaAnak = 100000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/nama5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email4"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Kebumen"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/nama6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama5"
+                        android:text="hargaDewasa = 120000;
+                                    hargaAnak = 90000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/email5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama6"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Yogyakarta"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/email6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email5"
+                        android:text="hargaDewasa = 190000;
+                                hargaAnak = 160000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/nama7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email6"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan :Pelabuhan Merak - Madiun"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/nama8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama7"
+                        android:text="hargaDewasa = 200000;
+                                hargaAnak = 150000;"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/email7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/nama8"
+                        android:layout_marginTop="20dp"
+                        android:text="Jurusan : Pelabuhan Merak - Kediri"
+                        android:textColor="@android:color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/email8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/email7"
+                        android:text="hargaDewasa = 120000;
+                                   hargaAnak = 100000"
+                        android:textSize="16sp" />
+
+                </RelativeLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

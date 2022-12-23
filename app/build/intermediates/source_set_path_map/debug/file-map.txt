@@ -1,0 +1,17 @@
+com.project.travel.app-constraintlayout-1.1.3-0 C:\Users\User\.gradle\caches\transforms-3\19808fcc427db46bd65fc3d77a0ee9a3\transformed\constraintlayout-1.1.3\res
+com.project.travel.app-core-1.1.0-1 C:\Users\User\.gradle\caches\transforms-3\275b706b6985d970373abac7764d754e\transformed\core-1.1.0\res
+com.project.travel.app-transition-1.0.0-2 C:\Users\User\.gradle\caches\transforms-3\47b1bac2ea7643972be18aafb83e4ed7\transformed\transition-1.0.0\res
+com.project.travel.app-jetified-appcompat-resources-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\7e49d4b36e397dd873b45a5696b87c47\transformed\jetified-appcompat-resources-1.1.0\res
+com.project.travel.app-cardview-1.0.0-4 C:\Users\User\.gradle\caches\transforms-3\85c801e564bc47d5ca77c271c5d095f8\transformed\cardview-1.0.0\res
+com.project.travel.app-appcompat-1.1.0-5 C:\Users\User\.gradle\caches\transforms-3\9482187169079bbf32910510fdb9387a\transformed\appcompat-1.1.0\res
+com.project.travel.app-recyclerview-1.0.0-6 C:\Users\User\.gradle\caches\transforms-3\b30e85b1466744a3742bfa46e3e4e04d\transformed\recyclerview-1.0.0\res
+com.project.travel.app-coordinatorlayout-1.0.0-7 C:\Users\User\.gradle\caches\transforms-3\eded3497703b01490b74bf408632e3eb\transformed\coordinatorlayout-1.0.0\res
+com.project.travel.app-material-1.0.0-8 C:\Users\User\.gradle\caches\transforms-3\f12084746e396081f99266d65defbb74\transformed\material-1.0.0\res
+com.project.travel.app-pngs-9 F:\Pemesanan-Travel-master\TravelApps\app\build\generated\res\pngs\debug
+com.project.travel.app-resValues-10 F:\Pemesanan-Travel-master\TravelApps\app\build\generated\res\resValues\debug
+com.project.travel.app-rs-11 F:\Pemesanan-Travel-master\TravelApps\app\build\generated\res\rs\debug
+com.project.travel.app-mergeDebugResources-12 F:\Pemesanan-Travel-master\TravelApps\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.project.travel.app-mergeDebugResources-13 F:\Pemesanan-Travel-master\TravelApps\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.project.travel.app-merged_res-14 F:\Pemesanan-Travel-master\TravelApps\app\build\intermediates\merged_res\debug
+com.project.travel.app-debug-15 F:\Pemesanan-Travel-master\TravelApps\app\src\debug\res
+com.project.travel.app-main-16 F:\Pemesanan-Travel-master\TravelApps\app\src\main\res
