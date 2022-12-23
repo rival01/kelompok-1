@@ -108,6 +108,10 @@
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "com.project.travel.app-merged_res-14:/layout_activity_informasi.xml.flat",
+        "source": "com.project.travel.app-main-16:/layout/activity_informasi.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-hdpi_book_kereta.png.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-hdpi\\book_kereta.png"
     },
@@ -218,10 +222,6 @@
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\drawable-mdpi_ic_fail.png.flat",
         "source": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-main-16:\\drawable-mdpi\\ic_fail.png"
-    },
-    {
-        "merged": "com.project.travel.app-merged_res-14:/layout_activity_main.xml.flat",
-        "source": "com.project.travel.app-main-16:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\User\\.gradle\\daemon\\7.4\\com.project.travel.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
